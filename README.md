@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @srajan-kiyotaka
 - 👀 I’m interested in Deep Learning, A.I, and Machine Learning. 
-- ✨ I'm working in Deep Learning(Neural Networking).
+- ✨ I'm working in Deep Learning.
 - 🌱 I’m currently learning ML.
-- 💞️ I’m looking to collaborate on Deep Learning(Model) using python(Keras) and python projects.
+- 💞️ I’m looking to collaborate on Deep Learning using python(Keras) and python projects.
 - 📫 How to reach me www.linkedin.com/in/srajan-chourasia-007880207
 
 <!---
