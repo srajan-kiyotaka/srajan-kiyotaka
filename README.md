@@ -2,7 +2,7 @@
 
 <h2 align="center"><I>A passionate AI developer from India.</I></h2>
 
-## 🎓Student at [IIT Goa](https://iitgoa.ac.in/)<a href="https://emoji.gg/emoji/1251-inferna-satisfied"><img src="https://emoji.gg/assets/emoji/1251-inferna-satisfied.png" width="64px" height="64px" alt="inferna_satisfied"></a>
+## 🎓Student at [IIT Goa ](https://iitgoa.ac.in/)<a href="https://emoji.gg/emoji/1251-inferna-satisfied"><img src="https://emoji.gg/assets/emoji/1251-inferna-satisfied.png" width="55px" height="55px" alt="inferna_satisfied"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srajan-kiyotaka&label=Landed%20on%20my%20planet!&color=5bb1e6&style=plastic" alt="srajan-kiyotaka" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **💦Deep Learning and 🎍AI/ML**
 
-- 🗂️ All of my projects are available at  [🌌🌸🌌](https://github.com/srajan-kiyotaka?tab=repositories)
+- 🗂️ All of my projects are available at [🌌🌸🌌](https://github.com/srajan-kiyotaka?tab=repositories)
 
 - 👀 I’m interested in **🍀Deep Learning, 🍂A.I, and 🔖Machine Learning.** 
 
