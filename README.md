@@ -2,7 +2,7 @@
 
 <h2 align="center"><I>A passionate AI developer from India.</I></h2>
 
-## Student at [IIT Goa](https://iitgoa.ac.in/)
+## 🎓Student at [IIT Goa](https://iitgoa.ac.in/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srajan-kiyotaka&label=Landed%20on%20my%20planet!&color=5bb1e6&style=plastic" alt="srajan-kiyotaka" /> </p>
 
