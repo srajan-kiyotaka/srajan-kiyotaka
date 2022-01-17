@@ -1,1 +1,24 @@
-
+<a href="https://emoji.discord.st/emojis/catgirl_patch_thumbsup.png"><img src="https://emoji.discord.st/emojis/catgirl_patch_thumbsup.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/242e2033-a1b7-45b0-8574-ddd3a74e4aeb.png"><img src="https://emoji.discord.st/emojis/242e2033-a1b7-45b0-8574-ddd3a74e4aeb.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/d73f5c25-4af5-4c98-853e-bddfda3107cd.png"><img src="https://emoji.discord.st/emojis/d73f5c25-4af5-4c98-853e-bddfda3107cd.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/25b4d3c7-3674-472f-beb6-524f3bdb4d26.gif"><img src="https://emoji.discord.st/emojis/25b4d3c7-3674-472f-beb6-524f3bdb4d26.gif" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/NepHug.png"><img src="https://emoji.discord.st/emojis/NepHug.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/ramFive.png"><img src="https://emoji.discord.st/emojis/ramFive.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/catgirl_patch_wave.png"><img src="https://emoji.discord.st/emojis/catgirl_patch_wave.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/kannaeat.png"><img src="https://emoji.discord.st/emojis/kannaeat.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/e21767b7-630b-4e42-924a-fcb30ad2d714.png"><img src="https://emoji.discord.st/emojis/e21767b7-630b-4e42-924a-fcb30ad2d714.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/mikuwave.png"><img src="https://emoji.discord.st/emojis/mikuwave.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/4e22c0bb-60ff-47da-aac5-15696875fabf.png"><img src="https://emoji.discord.st/emojis/4e22c0bb-60ff-47da-aac5-15696875fabf.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/ComfySagiri.png"><img src="https://emoji.discord.st/emojis/ComfySagiri.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/8c8592e8-70c7-4277-8184-1a4c4e7b6544.png"><img src="https://emoji.discord.st/emojis/8c8592e8-70c7-4277-8184-1a4c4e7b6544.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/a72202cc-d6d9-46ef-b58f-5b3b480ecd5d.png"><img src="https://emoji.discord.st/emojis/a72202cc-d6d9-46ef-b58f-5b3b480ecd5d.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png"><img src="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/b6fbae96-63e0-4656-99d9-1cba37a7d747.png"><img src="https://emoji.discord.st/emojis/b6fbae96-63e0-4656-99d9-1cba37a7d747.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/dc0599ce-d25c-4cb3-9ec2-36f549159eeb.jpg"><img src="https://emoji.discord.st/emojis/dc0599ce-d25c-4cb3-9ec2-36f549159eeb.jpg" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/f27b8877-80cc-4131-ac51-5526106192d3.pngv"><img src="https://emoji.discord.st/emojis/f27b8877-80cc-4131-ac51-5526106192d3.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/mexShrug.png"><img src="https://emoji.discord.st/emojis/mexShrug.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/3dad9d16-69b8-46e3-b860-9c85cf1a7fe6.png"><img src="https://emoji.discord.st/emojis/3dad9d16-69b8-46e3-b860-9c85cf1a7fe6.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/c914f04f-0218-49e3-a4d0-023df89157dc.gif"><img src="https://emoji.discord.st/emojis/c914f04f-0218-49e3-a4d0-023df89157dc.gif" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/KannaFreeze.png"><img src="https://emoji.discord.st/emojis/KannaFreeze.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/fcebd823-96f5-40ba-886e-bbf58a80a7ef.png"><img src="https://emoji.discord.st/emojis/fcebd823-96f5-40ba-886e-bbf58a80a7ef.png" width="58px" height="58px" alt="midoriya_ready"></a>
+<a href="https://emoji.discord.st/emojis/KannaPeer.png"><img src="https://emoji.discord.st/emojis/KannaPeer.png" width="58px" height="58px" alt="midoriya_ready"></a>
