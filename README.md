@@ -1,28 +1,28 @@
-<h1 align="center">Hi Guys 👋, Myself Srajan Chourasia</h1>
+<h1 align="center">Hi Guys 👋, Myself Srajan Chourasia<a href="https://emoji.gg/emoji/9721-inferna-happy"><img src="https://emoji.gg/assets/emoji/9721-inferna-happy.png" width="64px" height="64px" alt="inferna_happy"></a></h1>
 
 <h2 align="center"><I>A passionate AI developer from India.</I></h2>
 
-## Student at [IIT Goa](https://iitgoa.ac.in/)
+## 🎓Student at [IIT Goa](https://iitgoa.ac.in/)<a href="https://emoji.gg/emoji/1251-inferna-satisfied"><img src="https://emoji.gg/assets/emoji/1251-inferna-satisfied.png" width="64px" height="64px" alt="inferna_satisfied"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srajan-kiyotaka&label=Landed%20on%20my%20planet!&color=5bb1e6&style=plastic" alt="srajan-kiyotaka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srajan-kiyotaka" alt="srajan-kiyotaka" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning and AI/ML**
+- 🌱 I’m currently learning **💦Deep Learning and 🎍AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/srajan-kiyotaka?tab=repositories](https://github.com/srajan-kiyotaka?tab=repositories)
+- 🗂️ All of my projects are available at [🌌🌸🌌](https://github.com/srajan-kiyotaka?tab=repositories)
 
-- 👀 I’m interested in **Deep Learning, A.I, and Machine Learning.** 
+- 👀 I’m interested in **🍀Deep Learning, 🍂A.I, and 🔖Machine Learning.** 
 
-- ✨ I'm working in *Deep Learning.*
+- 💥 I'm working in *🍣Deep Learning.*
 
-- 💞️ I’m looking to collaborate on *Deep Learning using python(Keras) and python projects.*
+- 🎴 I’m looking to collaborate on *🐬Deep Learning, 🍥AI/ML and 🌀python projects.*
 
-- 💬 Ask me about **Deep Learning and AI**
+- 💬 Ask me about **🧊Deep Learning and 🔮AI**
 
-- 📫 How to reach me **srajanstark.ash@gmail.com**
+- 🏮 How to reach me **srajanstark.ash@gmail.com**
 
-- ⚡ Fun fact **I love Watching Anime's and Reading Manga!**
+- 🍁 Fun fact **I love Watching Anime's🎐 and Reading Manga⛩️!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
