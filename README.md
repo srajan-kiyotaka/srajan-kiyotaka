@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **💦Deep Learning and 🎍AI/ML**
 
-- 🗂️ All of my projects are available at [🌌🌸🌌](https://github.com/srajan-kiyotaka?tab=repositories)
+- 🗂️ All of my projects are available at  [🌌🌸🌌](https://github.com/srajan-kiyotaka?tab=repositories)
 
 - 👀 I’m interested in **🍀Deep Learning, 🍂A.I, and 🔖Machine Learning.** 
 
