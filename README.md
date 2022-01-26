@@ -12,9 +12,9 @@
 
 - <a href="https://github.com/srajan-kiyotaka?tab=repositories"><img src="https://emoji.gg/assets/emoji/7549-hug.png" width="49px" height="49px" alt="hug"></a>  **All of my projects are available at ...**<a href="https://github.com/srajan-kiyotaka?tab=repositories"><img src="https://emoji.discord.st/emojis/cb3dc3d2-fd74-4a3b-a9e1-f7ad58497090.gif" width="28px" height="28px" alt="link"></a>
 
-- <a href="https://emoji.gg/emoji/7578-ourokronii-surprised"><img src="https://emoji.gg/assets/emoji/7578-ourokronii-surprised.png" width="50px" height="50px" alt="OuroKronii_Surprised"></a> **I’m interested in 🍀Deep Learning, 🍂A.I, 🔖Machine Learning and there applications in different field's like 🌌IOT, 🤖Robotics.** 
+- <a href="https://emoji.gg/emoji/7578-ourokronii-surprised"><img src="https://emoji.gg/assets/emoji/7578-ourokronii-surprised.png" width="50px" height="50px" alt="OuroKronii_Surprised"></a> **I’m interested in 🍀Deep Learning, 🍂A.I, 🔖Machine Learning and their applications in different fields like 🌌IOT, 🤖Robotics.** 
 
-- <a href="https://emoji.gg/emoji/4497-kazuha-waiter"><img src="https://emoji.gg/assets/emoji/4497-kazuha-waiter.png" width="60px" height="60px" alt="Kazuha_waiter"></a> **I'm working in 🍣Deep Learning to build powerfull models using CNN, NLP and DNN.**
+- <a href="https://emoji.gg/emoji/4497-kazuha-waiter"><img src="https://emoji.gg/assets/emoji/4497-kazuha-waiter.png" width="60px" height="60px" alt="Kazuha_waiter"></a> **I'm working in 🍣Deep Learning to build powerful models using CNN, NLP and DNN.**
 
 - <a href="https://emoji.discord.st/emojis/KannaPeer.png"><img src="https://emoji.discord.st/emojis/KannaPeer.png" width="49px" height="49px" alt="look"></a> **I’m looking to collaborate on 🐬Deep Learning, 🎴AI/ML and 🌀python projects or projects which requires concepts like CNN, RNN, DNN, NPL etc...**
 
