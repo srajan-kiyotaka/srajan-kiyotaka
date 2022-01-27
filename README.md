@@ -16,7 +16,7 @@
 
 - <a href="https://emoji.gg/emoji/4497-kazuha-waiter"><img src="https://emoji.gg/assets/emoji/4497-kazuha-waiter.png" width="60px" height="60px" alt="Kazuha_waiter"></a> **I'm working in 🍣Deep Learning to build powerful models using CNN, NLP and DNN.**
 
-- <a href="https://emoji.discord.st/emojis/KannaPeer.png"><img src="https://emoji.discord.st/emojis/KannaPeer.png" width="49px" height="49px" alt="look"></a> **I’m looking to collaborate on 🐬Deep Learning, 🎴AI/ML and 🌀python projects or projects which requires concepts like CNN, RNN, DNN, NPL etc...**
+- <a href="https://emoji.discord.st/emojis/KannaPeer.png"><img src="https://emoji.discord.st/emojis/KannaPeer.png" width="49px" height="49px" alt="look"></a> **I’m looking to collaborate on 🐬Deep Learning, 🎴AI/ML and 🌀python projects or projects which requires concepts like CNN, RNN, DNN, NLP etc...**
 
 - <a href="https://emoji.discord.st/emojis/663714e4-e209-4747-9fe3-bbe00d03c1de.png"><img src="https://emoji.discord.st/emojis/663714e4-e209-4747-9fe3-bbe00d03c1de.png" width="56px" height="56px" alt="doubts"></a> **Ask me about 🧊Deep Learning and 🔮AI.**
 
