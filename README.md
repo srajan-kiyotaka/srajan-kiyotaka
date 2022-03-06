@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srajan-kiyotaka" alt="srajan-kiyotaka" /></a> </p>
 
-- <a href="https://emoji.gg/emoji/3929-midoriya-ready"><img src="https://emoji.gg/assets/emoji/3929-midoriya-ready.png" width="60px" height="60px" alt="midoriya_ready"></a> **I’m currently learning 💦Deep Learning,🎍AI/ML and how to Combine ✨Models with 🕹️Hardware to Perform Various 💻Task!**
+- <a href="https://emoji.gg/emoji/3929-midoriya-ready"><img src="https://emoji.gg/assets/emoji/3929-midoriya-ready.png" width="60px" height="60px" alt="midoriya_ready"></a> **I’m currently learning 💦Deep Learning(GNN right now),🎍AI/ML and how to Combine ✨Models with 🕹️Hardware to Perform Various 💻Task!**
 
 - <a href="https://github.com/srajan-kiyotaka?tab=repositories"><img src="https://emoji.gg/assets/emoji/7549-hug.png" width="49px" height="49px" alt="hug"></a>  **All of my projects are available at ...**<a href="https://github.com/srajan-kiyotaka?tab=repositories"><img src="https://emoji.discord.st/emojis/cb3dc3d2-fd74-4a3b-a9e1-f7ad58497090.gif" width="28px" height="28px" alt="link"></a>
 
