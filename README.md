@@ -34,6 +34,7 @@
 <a href="https://www.codechef.com/users/tatsuya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tatsuya" height="35" width="45" /></a>
 <a href="https://www.hackerrank.com/srajan_chourasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@srajan_chourasia" height="35" width="45" /></a>
 <a href="https://codeforces.com/profile/yukihira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yukihira" height="35" width="45" /></a>
+<a href="https://medium.com/@srajanstark.ash" target=“blank”><img align=“center” src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srajanstark.ash" height=“2” width=“2” /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
