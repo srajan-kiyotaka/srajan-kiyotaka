@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/srajan-chourasia-007880207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/srajan-chourasia-007880207" height="35" width="45" /></a>
+<a href="https://www.linkedin.com/in/srajan-chourasia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/srajan-chourasia-007880207" height="35" width="45" /></a>
 <a href="https://kaggle.com/srajanchourasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srajanchourasia" height="35" width="45" /></a>
 <a href="https://instagram.com/srajan.ash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srajan.ash" height="35" width="45" /></a>
 <a href="https://www.codechef.com/users/tatsuya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tatsuya" height="35" width="45" /></a>
