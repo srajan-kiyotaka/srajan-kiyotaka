@@ -26,7 +26,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/srajan-chourasia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/srajan-chourasia-007880207" height="35" width="45" /></a>
 <a href="https://kaggle.com/srajanchourasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srajanchourasia" height="35" width="45" /></a>
@@ -37,7 +37,9 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
+
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>  
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel=“noreferrer”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt=“cplusplus” style="width:50px;height:auto;" /></a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
@@ -51,7 +53,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel=“noreferrer”> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt=“pytorch” style="width:50px;height:auto;" /> </a>
 </p>
-<br>
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srajan-kiyotaka&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="srajan-kiyotaka" /></p>
 
