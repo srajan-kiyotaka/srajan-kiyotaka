@@ -67,9 +67,16 @@
 
 <a href="https://user-images.githubusercontent.com/91196806/149794804-59de1f34-14e4-4e99-b874-af9621258a6a.png"><img src="https://user-images.githubusercontent.com/91196806/149794804-59de1f34-14e4-4e99-b874-af9621258a6a.png" width="170px" height="170px" align="right"></a>
 
-<a><img src="https://emoji.discord.st/emojis/4d7af730-bb05-4a97-9c8d-0f05bf247ad6.gif" width="60px" height="60px" alt="run"></a> **How to reach us teamopoc@gmail.com**
+<h3>
+<a>
+<img src="https://emoji.discord.st/emojis/4d7af730-bb05-4a97-9c8d-0f05bf247ad6.gif" width="60px" height="60px" alt="run">
+</a>
+<b>
+How to reach us <a href = teamopoc@gmail.com>teamopoc@gmail.com </a>
+</b>
+</h3>
 
-<h3 align="left"><b>Connect with OPOC:</b></h3>
+<h2 align="left"><b>Connect with OPOC:</b></h2>
 <p align="left">
 <a href="https://github.com/OPOC-Community" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="opoc" height="45" width="55" /></a>
 <a href="https://www.youtube.com/channel/UCeOtffnJrIKsdtyY-FpFl-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="opoc" height="45" width="55" /></a>
