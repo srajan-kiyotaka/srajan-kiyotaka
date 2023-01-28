@@ -64,23 +64,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srajan-kiyotaka&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br>
-
-<h2 align="center"><I><a><img src="https://emoji.discord.st/emojis/833b8e60-f65d-45ac-9288-5deb12d5ba1c.png" width="64px" height="64px" alt="remaru"></a>Currently me along with my friends are creating a coding comunity: OPOC! <a><img src="https://emoji.discord.st/emojis/bc4561c5-37d6-44bb-b1ee-fce490a4d76a.gif" width="22px" height="22px" alt="tick"></a></I></h2>
-
-<a href="https://user-images.githubusercontent.com/91196806/149794804-59de1f34-14e4-4e99-b874-af9621258a6a.png"><img src="https://user-images.githubusercontent.com/91196806/149794804-59de1f34-14e4-4e99-b874-af9621258a6a.png" width="170px" height="170px" align="right"></a>
-
-<h3>
-<a>
-<img src="https://emoji.discord.st/emojis/4d7af730-bb05-4a97-9c8d-0f05bf247ad6.gif" width="60px" height="60px" alt="run">
-</a>
-<b>
-How to reach us <a href = teamopoc@gmail.com>teamopoc@gmail.com </a>
-</b>
-</h3>
-
-<h2 align="left"><b>Connect with OPOC:</b></h2>
-<p align="left">
-<a href="https://github.com/OPOC-Community" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="opoc" height="45" width="55" /></a>
-<a href="https://www.youtube.com/channel/UCeOtffnJrIKsdtyY-FpFl-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="opoc" height="45" width="55" /></a>
-<a href="https://discord.gg/https://discord.gg/DPVetSXD4q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/DPVetSXD4q" height="45" width="55" /></a>
-</p>
