@@ -62,3 +62,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=srajan-kiyotaka&show_icons=true&theme=tokyonight&title_color=3a91ee&text_color=3ddee1&bg_color=095381&hide_border=true&locale=en" alt="srajan-kiyotaka" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srajan-kiyotaka&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<br>
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Srajankiyotaka&layout=wide)](https://github.com/gazf/github-readme-twitter)
