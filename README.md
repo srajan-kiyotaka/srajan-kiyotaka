@@ -2,7 +2,7 @@
 
 <img src='resources/Srajan Banner.png' alt='Srajan Banner'>
 
-<br>
+<!-- <br> -->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=srajan-kiyotaka&label=Landed%20on%20my%20planet!&color=5bb1e6&style=plastic" alt="srajan-kiyotaka"/></p>
 
@@ -91,7 +91,7 @@ Fun fact I love Watching Anime 🎐 and Reading Manga ⛩️
 
 </details>
 
-<br>
+<!-- <br> -->
 
 <details>
 <summary> 
