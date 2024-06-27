@@ -87,7 +87,7 @@ Fun fact I love Watching Anime 🎐 and Reading Manga ⛩️
     <img src="https://gh-card.dev/repos/srajan-kiyotaka/bayes_Net_Sample.svg">
 </a> -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srajan-kiyotaka&repo=bayes_Net_Sample)](https://github.com/srajan-kiyotaka/bayes_Net_Sample)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srajan-kiyotaka&repo=TraverseCraft)](https://github.com/srajan-kiyotaka/TraverseCraft)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=srajan-kiyotaka&repo=bayes_Net_Sample)](https://github.com/srajan-kiyotaka/bayes_Net_Sample)
 
 </details>
 
